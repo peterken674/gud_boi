@@ -11,6 +11,10 @@ This is just a simple website for HTML practice, and this README is also for pra
 ## Setup/Installation Requirements
 
 - Clone this to your desktop. using `git clone https://github.com/peterken674/gud_boi.git`
+- Open the folder in Visual Studio (or the IDE you use).
+- Install the Live Server extension.
+- Run the Live Server and the website will open on the browser.
+- Enjoy!
 
 ## Known Bugs
 
@@ -28,4 +32,4 @@ I know it's not perfect, but I'm working on that. Will have pretty awesome proje
 ### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Copyright (c) {2021} **[Peter Kennedy](https://github.com/peterken674/)**
+Copyright &copy; 2021 **[Peter Kennedy](https://github.com/peterken674/)**
